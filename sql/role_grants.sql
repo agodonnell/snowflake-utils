@@ -1,0 +1,1 @@
+-- SQL script to assign roles and privileges

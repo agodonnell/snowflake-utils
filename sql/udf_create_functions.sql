@@ -1,0 +1,1 @@
+-- SQL script to create UDFs (e.g., masking, hashing)
